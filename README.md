@@ -1,1 +1,1 @@
-I'll build a little project with html which i just learned. Here is will odin recipes site.
+I'll build a little project with html which i just learned. Here will odin recipes site.
