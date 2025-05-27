@@ -1,0 +1,19 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Arial';
+}
+
+h1 {
+    text-align: center;
+ }
+
+.imgr {
+    display: block;
+    height: auto;
+    width: 300px;
+}
+
+.backbutton {
+    display: block;
+    text-align: center;
+}
